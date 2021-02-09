@@ -2,4 +2,4 @@
 aplicação controle finaceiro em JS puro
 
 # Lançamento
-mjcontrolefinanveiro.netlify.app
+https://mjcontrolefinanveiro.netlify.app/
